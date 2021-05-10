@@ -1,0 +1,11 @@
+.body_3{
+background-image: url("bg.jpg");
+background-position:center;
+    background-size: cover;
+}
+
+#canvas_3{
+    background-color: white;
+border-width: 10px;
+border-style: solid;
+}
